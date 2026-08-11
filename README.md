@@ -22,7 +22,7 @@ Organize friendly football matches with balanced teams, stats, rankings, and ach
 #### [Mi Mochila de Emergencia](https://github.com/FitaDev/MochiladeEmergencia)
 iOS app for home emergency kits: inventory, expiry alerts, offline guides & maps.
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/es/app/mi-mochila-de-emergencia/id6795961222)
+[GitHub](https://github.com/FitaDev/MochiladeEmergencia) · [App Store](https://apps.apple.com/es/app/mi-mochila-de-emergencia/id6795961222)
 
 <p>
   <img src="https://raw.githubusercontent.com/FitaDev/MochiladeEmergencia/main/assets/images/Mochila1.png" alt="Home" width="180" />
